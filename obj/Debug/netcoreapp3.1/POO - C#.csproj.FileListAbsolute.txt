@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\obj\Debug\netcoreapp3.1\POO - C#.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\obj\Debug\netcoreapp3.1\POO - C#.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\obj\Debug\netcoreapp3.1\POO - C#.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\obj\Debug\netcoreapp3.1\POO - C#.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\bin\Debug\netcoreapp3.1\POO - C#.exe
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\bin\Debug\netcoreapp3.1\POO - C#.deps.json
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\bin\Debug\netcoreapp3.1\POO - C#.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\bin\Debug\netcoreapp3.1\POO - C#.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\bin\Debug\netcoreapp3.1\POO - C#.dll
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\bin\Debug\netcoreapp3.1\POO - C#.pdb
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\obj\Debug\netcoreapp3.1\POO - C#.dll
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\obj\Debug\netcoreapp3.1\POO - C#.pdb
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\POO - C#\obj\Debug\netcoreapp3.1\POO - C#.genruntimeconfig.cache
